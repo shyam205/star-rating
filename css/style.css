@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#container{
+    width:400px;
+    height: 250px;
+    margin: 50px auto;
+}
+#container ul li{
+    display: inline-block;
+    font-size: 30px;
+    color:#ccc;
+    padding: 5px;
+}
+#message{
+    font-size: 23px;
+    margin-top: 10px;
+}
+.hovered-stars{
+    color:#ffcc36;
+}
+.clicked-stars{
+    color: sandybrown;
+}
